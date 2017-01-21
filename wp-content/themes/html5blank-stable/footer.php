@@ -16,6 +16,7 @@
 
 		<?php wp_footer(); ?>
 
+
 		<!-- analytics -->
 		<script>
 		(function(f,i,r,e,s,h,l){i['GoogleAnalyticsObject']=s;f[s]=f[s]||function(){
@@ -25,6 +26,15 @@
 		ga('create', 'UA-XXXXXXXX-XX', 'yourdomain.com');
 		ga('send', 'pageview');
 		</script>
+
+			
+		<script src="wp-content/themes/html5blank-stable/js/main.js"></script>
+<script src="wp-content/themes/html5blank-stable/js/jquery.min"></script>
+<script src="wp-content/themes/html5blank-stable/js/jquery.scrollex.min"></script>
+<script src="wp-content/themes/html5blank-stable/js/jquery.scrolly.min"></script>
+<script src="wp-content/themes/html5blank-stable98f/js/skel.min"></script>
+<script src="wp-content/themes/html5blank-stable/js/util"></script>
+
 
 	</body>
 </html>
